@@ -1,0 +1,16 @@
+Student_ID,Name,Math,Science,English,Computer,Social_Science,Total,Average,Performance,Cluster
+101,Aarav,85,90,78,95,82,430,86.0,Excellent,1
+102,Ananya,92,88,91,96,89,456,91.2,Excellent,1
+103,Rahul,65,70,68,75,72,350,70.0,Good,2
+104,Priya,78,85,82,88,80,413,82.6,Good,1
+105,Aditya,55,60,58,65,62,300,60.0,Average,0
+106,Neha,95,92,94,98,96,475,95.0,Excellent,1
+107,Rohan,72,75,70,80,74,371,74.2,Good,2
+108,Simran,88,90,85,92,87,442,88.4,Excellent,1
+109,Karan,60,65,62,70,68,325,65.0,Average,2
+110,Meera,91,94,89,97,93,464,92.8,Excellent,1
+111,Arjun,76,72,80,78,75,381,76.2,Good,2
+112,Isha,83,86,88,90,84,431,86.2,Excellent,1
+113,Vikash,48,55,52,60,50,265,53.0,Average,0
+114,Kavya,89,87,92,94,90,452,90.4,Excellent,1
+115,Ankit,68,72,65,74,70,349,69.8,Average,2
